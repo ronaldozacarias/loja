@@ -16,7 +16,7 @@ session_start();
  <?php
  if(isset($_GET["logout"]) && $_GET["logout"]==true) {
  	?>
- 	<p class="alert-success">Deslogado com sucesso</p>
+ 	<p class="alert-success">Deslogado com sucesso!</p>
  	<?php
  }
  ?>
