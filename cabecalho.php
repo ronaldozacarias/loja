@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Minha loja</title>
+		<title>Minha loja - Praticando PHP</title>
 		<meta charset="utf-8">
 		<link href="css/bootstrap.css" rel="stylesheet" />	
 	</head>
